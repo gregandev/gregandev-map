@@ -1066,7 +1066,7 @@
         {
          "name":"mapLink",
          "type":"string",
-         "value":"https:\/\/garagenum.github.io\/garage-map-map\/map.json"
+         "value":"https:\/\/gregandev.github.io\/gregandev-map\/map.json"
         }, 
         {
          "name":"mapName",
