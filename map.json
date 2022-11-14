@@ -133,7 +133,7 @@
                 {
                  "name":"playAudio",
                  "type":"string",
-                 "value":".\/assets\/music\/zelda.mp3"
+                 "value":".\/public\/zelda.mp3"
                 }],
          "type":"tilelayer",
          "visible":true,
