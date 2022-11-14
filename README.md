@@ -1,4 +1,4 @@
-# GARAGE MAP
+# GREGANDEV MAP
 
 ![map](./docs/map.png)
 
